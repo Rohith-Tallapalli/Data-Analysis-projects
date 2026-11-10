@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Enthusiastic
 -----------------
 
-I am a BTech 4th-year student and an aspiring Data Analyst with a strong interest in analyzing data to uncover insights and support better decision-making. I have hands-on experience with Python, SQL, MySQL, Excel, and Power BI, and I enjoy working on data cleaning, exploration, and visualization. I am actively building real-world projects to strengthen my analytical skills and gain practical exposure to data analytics and cloud-based solutions, with the goal of growing into a skilled and impact-driven data professional.
+I am a BTech Fresher and an aspiring Data Analyst with a strong interest in analyzing data to uncover insights and support better decision-making. I have hands-on experience with Python, SQL, MySQL, Excel, and Power BI, and I enjoy working on data cleaning, exploration, and visualization. I am actively building real-world projects to strengthen my analytical skills and gain practical exposure to data analytics and cloud-based solutions, with the goal of growing into a skilled and impact-driven data professional.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rohithtallapalli@gmail.com](mailto:rohithtallapalli@gmail.com)
